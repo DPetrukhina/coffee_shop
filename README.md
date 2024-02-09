@@ -2,5 +2,5 @@
 ## Описание проекта
 Цель проекта: исследовать информацию из базы данных кофейни и проаналиировать информацию.
 ## Инструменты
-Python, pandas, SQL, sqlalchemy
+Python, pandas, SQL, sqlalchemy, PostgreSQL
 ## Выводы
